@@ -42,21 +42,6 @@ Analyzed the types of restaurants receiving the best ratings.
 
 **matplotlib and seaborn:** For data visualization.
 
-**How to Run the Code**
-
-**Clone the repository:**
-
-git clone <repository_url>
-cd <repository_folder>
-
-**Install the required Python libraries:**
-
-pip install -r requirements.txt
-
-**Run the analysis script:**
-
-python analysis.py
-
 **Results**
 
 The following insights were obtained from the analysis:
